@@ -1,1 +1,4 @@
-/home/mohsen/workspace/git-final-exam
+# Git Final Exam
+
+A simple Python project for practicing Git. 
+
